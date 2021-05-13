@@ -14,3 +14,11 @@ Microsoft Direct3D 11.x ecosystem
 * [Work with 3D assets for games and apps](https://docs.microsoft.com/en-us/visualstudio/designers/working-with-3-d-assets-for-games-and-apps?view=vs-2019)
 * [Create a simple Universal Windows Platform (UWP) game with DirectX](https://docs.microsoft.com/en-us/windows/uwp/gaming/tutorial--create-your-first-uwp-directx-game)
 * [DirectXTK Getting Started](https://github.com/microsoft/DirectXTK/wiki/Getting-Started)
+### Other
+
+## Samples
+* [Directx SDK Samples (remastered)](https://github.com/walbourn/directx-sdk-samples)
+* [Xbox ATG Samples](https://github.com/Microsoft/Xbox-ATG-Samples#introductory-graphics)
+* [DirectXTk Samples](https://github.com/microsoft/DirectXTK/wiki/Samples)
+* [Simple 3D DirectX UWP Game](https://github.com/microsoft/Windows-universal-samples/tree/master/Samples/Simple3DGameDX)
+## Books
