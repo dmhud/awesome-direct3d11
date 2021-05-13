@@ -15,7 +15,9 @@ Microsoft Direct3D 11.x ecosystem
 * [Create a simple Universal Windows Platform (UWP) game with DirectX](https://docs.microsoft.com/en-us/windows/uwp/gaming/tutorial--create-your-first-uwp-directx-game)
 * [DirectXTK Getting Started](https://github.com/microsoft/DirectXTK/wiki/Getting-Started)
 ### Other
-
+* [Rastertek](http://www.rastertek.com/tutdx11.html)
+* [DirectXtutorial](http://www.directxtutorial.com/LessonList.aspx?listid=11)
+* [Braynzar Soft](https://www.braynzarsoft.net/viewtutorial/q16390-braynzar-soft-directx-11-tutorials)
 ## Samples
 * [Directx SDK Samples (remastered)](https://github.com/walbourn/directx-sdk-samples)
 * [Xbox ATG Samples](https://github.com/Microsoft/Xbox-ATG-Samples#introductory-graphics)
